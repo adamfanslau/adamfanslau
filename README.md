@@ -8,7 +8,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/adam-fanslau/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:adam.fanslau@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Open%20to%20work-2ea44f?style=for-the-badge" alt="Open to work"/>
 </p>
 
 ---
@@ -51,20 +50,6 @@
 | [SePriCloud](https://github.com/adamfanslau/SePriCloud) | Privacy-first, self-hosted home cloud storage service | TypeScript |
 | [bug-blaster](https://github.com/adamfanslau/bug-blaster) | HTML5 game — a developer shooting down computer bugs | TypeScript |
 | [ocr-app](https://github.com/adamfanslau/ocr-app) | Testbed for self-hosted OCR solutions | JavaScript |
-| [crwn-clothing](https://github.com/adamfanslau/crwn-clothing) | React e-commerce application | React · JavaScript |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adamfanslau&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="Adam's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamfanslau&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=adamfanslau&hide_border=true&theme=tokyonight" alt="GitHub streak"/>
-</p>
 
 ---
 
